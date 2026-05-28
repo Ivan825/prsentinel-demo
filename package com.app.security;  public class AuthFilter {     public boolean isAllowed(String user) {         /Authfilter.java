@@ -7,4 +7,7 @@ public class AuthFilter {
         //oeojfoeijfejfehjfejhofeofo
         //sijdwidjfiwjfwjofwof
     }
+    public boolean isAllowed(String user) {
+    return true;
+}
 }
